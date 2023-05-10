@@ -2,11 +2,11 @@ import cv2
   
 # loading images
 # importing logo that we are going to use
-logo = cv2.imread("C:/Users/Dama Prasoona/Downloads/3.jpg")
+logo = cv2.imread("C:/Users/Dama Prasoona/Downloads/11.jpg")
   
 # importing image on which we are going to
 # apply watermark
-img = cv2.imread("C:/Users/Dama Prasoona/Downloads/3.jpg")
+img = cv2.imread("C:/Users/Dama Prasoona/Downloads/22.png")
   
 # calculating dimensions
 # height and width of the logo
